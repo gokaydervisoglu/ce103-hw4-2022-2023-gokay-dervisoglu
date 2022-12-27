@@ -1,0 +1,25 @@
+var a00050 =
+[
+    [ "main", "d5/de0/a00050.html#a7c384689c6f20925dabbb9991fc414ee", null ],
+    [ "Cabnit", "d5/de0/a00050.html#adba39768f8446ad7ccbc9cd122e05d9a", null ],
+    [ "Cabnit_C", "d5/de0/a00050.html#a3ae9cfd60d42b4bd430667ab03a95bd2", null ],
+    [ "City", "d5/de0/a00050.html#aa7acbd7f7b4b7cfd641102639851037a", null ],
+    [ "Company", "d5/de0/a00050.html#a6dd809db52231d270069705890e1e61f", null ],
+    [ "Contact_No", "d5/de0/a00050.html#a8063ea01385751bda4fe8bde13608099", null ],
+    [ "Contact_No_C", "d5/de0/a00050.html#acf1abc2f2b48ed41547aead06b4bc39e", null ],
+    [ "Email_ID", "d5/de0/a00050.html#ab3d084fb812538de2203b302c67d9ba2", null ],
+    [ "Exp_Date", "d5/de0/a00050.html#a8f51ffb9e38cb13fb01c141aa129c813", null ],
+    [ "ID", "d5/de0/a00050.html#a8bdc3e5a833389a4efd1414cf55d609b", null ],
+    [ "ID_Control", "d5/de0/a00050.html#a83f476a510e5e93699e4dfd052a5c47f", null ],
+    [ "Medicine", "d5/de0/a00050.html#a8337457e07feb3a5cc6d98b80425d21b", null ],
+    [ "Mgf_Date", "d5/de0/a00050.html#a9592a7908c2f1946ef578fd17a45237e", null ],
+    [ "Name", "d5/de0/a00050.html#a17630ab7cd3203635b32a420a15a4cb6", null ],
+    [ "Quantity", "d5/de0/a00050.html#a1fedacd7fb45e3011079e450a2dd779a", null ],
+    [ "Quantity_C", "d5/de0/a00050.html#a8d0cff60aab8a87cb588f0e6544a34cb", null ],
+    [ "Rack", "d5/de0/a00050.html#a60bbb5eb503bc8d666d8875d1a96d031", null ],
+    [ "Rack_C", "d5/de0/a00050.html#a32c99e743332034406226bf28accb1f8", null ],
+    [ "Sale_Cost", "d5/de0/a00050.html#a6ea842d545d18f8bb13f7a90391c3433", null ],
+    [ "Sale_Cost_C", "d5/de0/a00050.html#aceafaf180be4ad14fac711fedd1128a0", null ],
+    [ "Unit_Cost", "d5/de0/a00050.html#a09fd72eda38a00d0d417c07194e4062f", null ],
+    [ "Unit_Cost_C", "d5/de0/a00050.html#a8d5063b3f00b3d082e71a5279eea51d0", null ]
+];

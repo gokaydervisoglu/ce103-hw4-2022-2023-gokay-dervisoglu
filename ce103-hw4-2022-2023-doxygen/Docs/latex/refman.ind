@@ -1,0 +1,623 @@
+\begin{theindex}
+
+  \item {\_Medicine}
+    \subitem {ce103\_hw4\_library\_lib.MedicineFeature}, \hyperpage{61}
+  \item {\_cabnit}
+    \subitem {ce103\_hw4\_library\_lib.MedicineFeature}, \hyperpage{60}
+  \item {\_city}
+    \subitem {ce103\_hw4\_library\_lib.CustomerFeature}, \hyperpage{25}
+    \subitem {ce103\_hw4\_library\_lib.SupplierFeature}, \hyperpage{81}
+  \item {\_company}
+    \subitem {ce103\_hw4\_library\_lib.MedicineFeature}, \hyperpage{61}
+  \item {\_contact\_no}
+    \subitem {ce103\_hw4\_library\_lib.CustomerFeature}, \hyperpage{25}
+    \subitem {ce103\_hw4\_library\_lib.SupplierFeature}, \hyperpage{81}
+  \item {\_customerId}
+    \subitem {ce103\_hw4\_library\_lib.SaleMedicineFeature}, 
+		\hyperpage{70}
+  \item {\_date}
+    \subitem {ce103\_hw4\_library\_lib.CustomerFeature}, \hyperpage{25}
+  \item {\_email}
+    \subitem {ce103\_hw4\_library\_lib.CustomerFeature}, \hyperpage{26}
+    \subitem {ce103\_hw4\_library\_lib.SupplierFeature}, \hyperpage{81}
+  \item {\_exp\_date}
+    \subitem {ce103\_hw4\_library\_lib.MedicineFeature}, \hyperpage{61}
+  \item {\_id}
+    \subitem {ce103\_hw4\_library\_lib.CustomerFeature}, \hyperpage{26}
+    \subitem {ce103\_hw4\_library\_lib.MedicineFeature}, \hyperpage{61}
+    \subitem {ce103\_hw4\_library\_lib.SupplierFeature}, \hyperpage{81}
+  \item {\_medicineId}
+    \subitem {ce103\_hw4\_library\_lib.SaleMedicineFeature}, 
+		\hyperpage{70}
+  \item {\_medicineQuantity}
+    \subitem {ce103\_hw4\_library\_lib.SaleMedicineFeature}, 
+		\hyperpage{70}
+  \item {\_mgf\_date}
+    \subitem {ce103\_hw4\_library\_lib.MedicineFeature}, \hyperpage{61}
+  \item {\_name}
+    \subitem {ce103\_hw4\_library\_lib.CustomerFeature}, \hyperpage{26}
+    \subitem {ce103\_hw4\_library\_lib.MedicineFeature}, \hyperpage{61}
+  \item {\_name\_s}
+    \subitem {ce103\_hw4\_library\_lib.CustomerFeature}, \hyperpage{26}
+    \subitem {ce103\_hw4\_library\_lib.MedicineFeature}, \hyperpage{62}
+    \subitem {ce103\_hw4\_library\_lib.SupplierFeature}, \hyperpage{81}
+  \item {\_quantity}
+    \subitem {ce103\_hw4\_library\_lib.MedicineFeature}, \hyperpage{62}
+  \item {\_rack}
+    \subitem {ce103\_hw4\_library\_lib.MedicineFeature}, \hyperpage{62}
+  \item {\_return\_date}
+    \subitem {ce103\_hw4\_library\_lib.CustomerFeature}, \hyperpage{26}
+  \item {\_saleDate}
+    \subitem {ce103\_hw4\_library\_lib.SaleMedicineFeature}, 
+		\hyperpage{70}
+  \item {\_salecost}
+    \subitem {ce103\_hw4\_library\_lib.MedicineFeature}, \hyperpage{62}
+  \item {\_unitcost}
+    \subitem {ce103\_hw4\_library\_lib.MedicineFeature}, \hyperpage{62}
+
+  \indexspace
+
+  \item {AddSaleMedicine}
+    \subitem {ce103\_hw4\_library\_lib.MainFunctions}, \hyperpage{38}
+  \item {AddSaleMedicine2}
+    \subitem {ce103\_hw4\_library\_lib.MainFunctions}, \hyperpage{38}
+  \item {AddSupplier}
+    \subitem {ce103\_hw4\_library\_lib.MainFunctions}, \hyperpage{39}
+  \item {appendBlock}
+    \subitem {ce103\_hw4\_library\_lib.FileOperations}, \hyperpage{32}
+  \item {appendBlock2}
+    \subitem {ce103\_hw4\_library\_lib.FileOperations}, \hyperpage{33}
+  \item {appendBlockCounter}
+    \subitem {ce103\_hw4\_library\_lib.FileOperations}, \hyperpage{33}
+
+  \indexspace
+
+  \item {BookToByteArrayBlock}
+    \subitem {ce103\_hw4\_library\_lib.SaleMedicineFeature}, 
+		\hyperpage{66}
+  \item {Borrow\_Data\_Block\_Size}
+    \subitem {ce103\_hw4\_library\_lib.SupplierFeature}, \hyperpage{81}
+  \item {ByteArrayBlockToBook}
+    \subitem {ce103\_hw4\_library\_lib.SaleMedicineFeature}, 
+		\hyperpage{66}
+  \item {ByteArrayBlockToCustomer}
+    \subitem {ce103\_hw4\_library\_lib.CustomerFeature}, \hyperpage{15}
+  \item {ByteArrayBlockToCustomerCounter}
+    \subitem {ce103\_hw4\_library\_lib.CustomerFeature}, \hyperpage{16}
+  \item {ByteArrayBlockToMedicine}
+    \subitem {ce103\_hw4\_library\_lib.MedicineFeature}, \hyperpage{45}
+  \item {ByteArrayBlockToMedicineCounter}
+    \subitem {ce103\_hw4\_library\_lib.MedicineFeature}, \hyperpage{47}
+  \item {ByteArrayBlockToSupplier}
+    \subitem {ce103\_hw4\_library\_lib.SupplierFeature}, \hyperpage{72}
+  \item {ByteArrayBlockToSupplierCounter}
+    \subitem {ce103\_hw4\_library\_lib.SupplierFeature}, \hyperpage{73}
+  \item {byteArrayToInteger}
+    \subitem {ce103\_hw4\_library\_lib.DataOperations}, \hyperpage{28}
+  \item {byteArrayToString}
+    \subitem {ce103\_hw4\_library\_lib.DataOperations}, \hyperpage{28}
+
+  \indexspace
+
+  \item {C:/Users/Gokay/Desktop/newww/ce103-\/hw4-\/gokay-\/dervisoglu/medical\_store/ce103\_hw4\_medical\_store\_app/App.java}, 
+		\hyperpage{93}
+  \item {C:/Users/Gokay/Desktop/newww/ce103-\/hw4-\/gokay-\/dervisoglu/medical\_store/ce103\_hw4\_medical\_store\_cmd/UnitTest.java}, 
+		\hyperpage{93}
+  \item {C:/Users/Gokay/Desktop/newww/ce103-\/hw4-\/gokay-\/dervisoglu/medical\_store/ce103\_hw4\_medical\_store\_lib/CustomerFeature.java}, 
+		\hyperpage{94}
+  \item {C:/Users/Gokay/Desktop/newww/ce103-\/hw4-\/gokay-\/dervisoglu/medical\_store/ce103\_hw4\_medical\_store\_lib/DataOperations.java}, 
+		\hyperpage{94}
+  \item {C:/Users/Gokay/Desktop/newww/ce103-\/hw4-\/gokay-\/dervisoglu/medical\_store/ce103\_hw4\_medical\_store\_lib/FileOperations.java}, 
+		\hyperpage{94}
+  \item {C:/Users/Gokay/Desktop/newww/ce103-\/hw4-\/gokay-\/dervisoglu/medical\_store/ce103\_hw4\_medical\_store\_lib/MainFunctions.java}, 
+		\hyperpage{95}
+  \item {C:/Users/Gokay/Desktop/newww/ce103-\/hw4-\/gokay-\/dervisoglu/medical\_store/ce103\_hw4\_medical\_store\_lib/MedicineFeature.java}, 
+		\hyperpage{95}
+  \item {C:/Users/Gokay/Desktop/newww/ce103-\/hw4-\/gokay-\/dervisoglu/medical\_store/ce103\_hw4\_medical\_store\_lib/SaleMedicineFeature.java}, 
+		\hyperpage{95}
+  \item {C:/Users/Gokay/Desktop/newww/ce103-\/hw4-\/gokay-\/dervisoglu/medical\_store/ce103\_hw4\_medical\_store\_lib/SupplierFeature.java}, 
+		\hyperpage{95}
+  \item {C:/Users/Gokay/Desktop/newww/ce103-\/hw4-\/gokay-\/dervisoglu/medical\_store/ce103\_hw4\_medical\_store\_lib/UnitTest.java}, 
+		\hyperpage{93}
+  \item {Cabnit}
+    \subitem {ce103\_hw4\_library\_app.App}, \hyperpage{10}
+  \item {Cabnit\_C}
+    \subitem {ce103\_hw4\_library\_app.App}, \hyperpage{11}
+  \item {cabnit\_MAX\_LENGTH}
+    \subitem {ce103\_hw4\_library\_lib.MedicineFeature}, \hyperpage{62}
+  \item {ce103\_hw4\_library\_app}, \hyperpage{7}
+  \item {ce103\_hw4\_library\_app.App}, \hyperpage{9}
+    \subitem {Cabnit}, \hyperpage{10}
+    \subitem {Cabnit\_C}, \hyperpage{11}
+    \subitem {City}, \hyperpage{11}
+    \subitem {Company}, \hyperpage{11}
+    \subitem {Contact\_No}, \hyperpage{11}
+    \subitem {Contact\_No\_C}, \hyperpage{11}
+    \subitem {Email\_ID}, \hyperpage{11}
+    \subitem {Exp\_Date}, \hyperpage{12}
+    \subitem {ID}, \hyperpage{12}
+    \subitem {ID\_Control}, \hyperpage{12}
+    \subitem {main}, \hyperpage{9}
+    \subitem {Medicine}, \hyperpage{12}
+    \subitem {Mgf\_Date}, \hyperpage{12}
+    \subitem {Name}, \hyperpage{12}
+    \subitem {Quantity}, \hyperpage{13}
+    \subitem {Quantity\_C}, \hyperpage{13}
+    \subitem {Rack}, \hyperpage{13}
+    \subitem {Rack\_C}, \hyperpage{13}
+    \subitem {Sale\_Cost}, \hyperpage{13}
+    \subitem {Sale\_Cost\_C}, \hyperpage{13}
+    \subitem {Unit\_Cost}, \hyperpage{14}
+    \subitem {Unit\_Cost\_C}, \hyperpage{14}
+  \item {ce103\_hw4\_library\_cmd}, \hyperpage{7}
+  \item {ce103\_hw4\_library\_cmd.UnitTest}, \hyperpage{83}
+    \subitem {testGetInt}, \hyperpage{83}
+    \subitem {testSetAndGetId}, \hyperpage{84}
+    \subitem {testSetAndGetName}, \hyperpage{84}
+    \subitem {testSupplierCreation}, \hyperpage{85}
+    \subitem {testSupplierCreationAndFileWriting}, \hyperpage{86}
+  \item {ce103\_hw4\_library\_lib}, \hyperpage{7}
+  \item {ce103\_hw4\_library\_lib.CustomerFeature}, \hyperpage{14}
+    \subitem {\_city}, \hyperpage{25}
+    \subitem {\_contact\_no}, \hyperpage{25}
+    \subitem {\_date}, \hyperpage{25}
+    \subitem {\_email}, \hyperpage{26}
+    \subitem {\_id}, \hyperpage{26}
+    \subitem {\_name}, \hyperpage{26}
+    \subitem {\_name\_s}, \hyperpage{26}
+    \subitem {\_return\_date}, \hyperpage{26}
+    \subitem {ByteArrayBlockToCustomer}, \hyperpage{15}
+    \subitem {ByteArrayBlockToCustomerCounter}, \hyperpage{16}
+    \subitem {city\_MAX\_LENGTH}, \hyperpage{26}
+    \subitem {contact\_no\_NAME\_MAX\_LENGTH}, \hyperpage{27}
+    \subitem {Customer\_DATA\_BLOCK\_SIZE}, \hyperpage{27}
+    \subitem {CustomerToByteArrayBlock}, \hyperpage{17}
+    \subitem {email\_NAME\_MAX\_LENGTH}, \hyperpage{27}
+    \subitem {getcity}, \hyperpage{18}
+    \subitem {getcontact\_no}, \hyperpage{19}
+    \subitem {getDate}, \hyperpage{19}
+    \subitem {getemail}, \hyperpage{19}
+    \subitem {getId}, \hyperpage{20}
+    \subitem {getName}, \hyperpage{20}
+    \subitem {getname\_s}, \hyperpage{21}
+    \subitem {getReturnDate}, \hyperpage{21}
+    \subitem {ID\_LENGTH}, \hyperpage{27}
+    \subitem {name\_s\_MAX\_LENGTH}, \hyperpage{27}
+    \subitem {setcity}, \hyperpage{21}
+    \subitem {setcontact\_no}, \hyperpage{22}
+    \subitem {setDate}, \hyperpage{22}
+    \subitem {setemail}, \hyperpage{23}
+    \subitem {setId}, \hyperpage{23}
+    \subitem {setName}, \hyperpage{24}
+    \subitem {setname\_s}, \hyperpage{24}
+    \subitem {setReturnDate}, \hyperpage{25}
+  \item {ce103\_hw4\_library\_lib.DataOperations}, \hyperpage{28}
+    \subitem {byteArrayToInteger}, \hyperpage{28}
+    \subitem {byteArrayToString}, \hyperpage{28}
+    \subitem {GetInt}, \hyperpage{29}
+    \subitem {integerToByteArray}, \hyperpage{29}
+    \subitem {IsHex}, \hyperpage{30}
+    \subitem {StringToByteArray}, \hyperpage{31}
+    \subitem {ToAscii}, \hyperpage{31}
+    \subitem {ToByte}, \hyperpage{31}
+    \subitem {ToHex}, \hyperpage{32}
+  \item {ce103\_hw4\_library\_lib.FileOperations}, \hyperpage{32}
+    \subitem {appendBlock}, \hyperpage{32}
+    \subitem {appendBlock2}, \hyperpage{33}
+    \subitem {appendBlockCounter}, \hyperpage{33}
+    \subitem {deleteBlock}, \hyperpage{34}
+    \subitem {deleteBlock2}, \hyperpage{35}
+    \subitem {readBlock}, \hyperpage{36}
+    \subitem {updateBlock}, \hyperpage{36}
+  \item {ce103\_hw4\_library\_lib.MainFunctions}, \hyperpage{37}
+    \subitem {AddSaleMedicine}, \hyperpage{38}
+    \subitem {AddSaleMedicine2}, \hyperpage{38}
+    \subitem {AddSupplier}, \hyperpage{39}
+    \subitem {ControlFile}, \hyperpage{40}
+    \subitem {controlFile}, \hyperpage{41}
+    \subitem {DecreaseBook}, \hyperpage{41}
+    \subitem {DecreaseBook2}, \hyperpage{42}
+  \item {ce103\_hw4\_library\_lib.MedicineFeature}, \hyperpage{43}
+    \subitem {\_Medicine}, \hyperpage{61}
+    \subitem {\_cabnit}, \hyperpage{60}
+    \subitem {\_company}, \hyperpage{61}
+    \subitem {\_exp\_date}, \hyperpage{61}
+    \subitem {\_id}, \hyperpage{61}
+    \subitem {\_mgf\_date}, \hyperpage{61}
+    \subitem {\_name}, \hyperpage{61}
+    \subitem {\_name\_s}, \hyperpage{62}
+    \subitem {\_quantity}, \hyperpage{62}
+    \subitem {\_rack}, \hyperpage{62}
+    \subitem {\_salecost}, \hyperpage{62}
+    \subitem {\_unitcost}, \hyperpage{62}
+    \subitem {ByteArrayBlockToMedicine}, \hyperpage{45}
+    \subitem {ByteArrayBlockToMedicineCounter}, \hyperpage{47}
+    \subitem {cabnit\_MAX\_LENGTH}, \hyperpage{62}
+    \subitem {company\_NAME\_MAX\_LENGTH}, \hyperpage{63}
+    \subitem {exp\_date\_LENGTH}, \hyperpage{63}
+    \subitem {getCabnit}, \hyperpage{47}
+    \subitem {getCompany}, \hyperpage{48}
+    \subitem {getExp\_date}, \hyperpage{48}
+    \subitem {getId}, \hyperpage{49}
+    \subitem {getMedicine}, \hyperpage{49}
+    \subitem {getMgf\_date}, \hyperpage{50}
+    \subitem {getName}, \hyperpage{50}
+    \subitem {getname\_s}, \hyperpage{50}
+    \subitem {getQuantity}, \hyperpage{51}
+    \subitem {getRack}, \hyperpage{51}
+    \subitem {getSalecost}, \hyperpage{52}
+    \subitem {getUnitcost}, \hyperpage{52}
+    \subitem {ID\_LENGTH}, \hyperpage{63}
+    \subitem {Medicine\_DATA\_BLOCK\_SIZE}, \hyperpage{63}
+    \subitem {Medicine\_NAME\_MAX\_LENGTH}, \hyperpage{63}
+    \subitem {MedicineToByteArrayBlock}, \hyperpage{53}
+    \subitem {mgf\_date\_LENGTH}, \hyperpage{64}
+    \subitem {name\_s\_MAX\_LENGTH}, \hyperpage{64}
+    \subitem {quantity\_MAX\_LENGTH}, \hyperpage{64}
+    \subitem {rack\_MAX\_LENGTH}, \hyperpage{64}
+    \subitem {salecost\_MAX\_LENGTH}, \hyperpage{64}
+    \subitem {SaleMedicine\_DATA\_BLOCK\_SIZE}, \hyperpage{64}
+    \subitem {setCabnit}, \hyperpage{55}
+    \subitem {setCompany}, \hyperpage{55}
+    \subitem {setExp\_date}, \hyperpage{56}
+    \subitem {setId}, \hyperpage{56}
+    \subitem {setMedicine}, \hyperpage{57}
+    \subitem {setMgf\_date}, \hyperpage{57}
+    \subitem {setName}, \hyperpage{58}
+    \subitem {setname\_s}, \hyperpage{58}
+    \subitem {setQuantity}, \hyperpage{58}
+    \subitem {setRack}, \hyperpage{59}
+    \subitem {setSalecost}, \hyperpage{59}
+    \subitem {setUnitcost}, \hyperpage{60}
+    \subitem {unitcost\_MAX\_LENGTH}, \hyperpage{65}
+  \item {ce103\_hw4\_library\_lib.SaleMedicineFeature}, \hyperpage{65}
+    \subitem {\_customerId}, \hyperpage{70}
+    \subitem {\_medicineId}, \hyperpage{70}
+    \subitem {\_medicineQuantity}, \hyperpage{70}
+    \subitem {\_saleDate}, \hyperpage{70}
+    \subitem {BookToByteArrayBlock}, \hyperpage{66}
+    \subitem {ByteArrayBlockToBook}, \hyperpage{66}
+    \subitem {CUSTOMER\_ID\_MAX\_LENGTH}, \hyperpage{71}
+    \subitem {getCustomerId}, \hyperpage{67}
+    \subitem {getMedicineId}, \hyperpage{67}
+    \subitem {getMedicineQuantity}, \hyperpage{68}
+    \subitem {getSaleDate}, \hyperpage{68}
+    \subitem {MEDICINE\_ID\_LENGTH}, \hyperpage{71}
+    \subitem {SALE\_DATA\_BLOCK\_SIZE}, \hyperpage{71}
+    \subitem {setCustomerId}, \hyperpage{68}
+    \subitem {setMedicineId}, \hyperpage{68}
+    \subitem {setMedicineQuantity}, \hyperpage{69}
+    \subitem {setSaleDate}, \hyperpage{69}
+  \item {ce103\_hw4\_library\_lib.SupplierFeature}, \hyperpage{71}
+    \subitem {\_city}, \hyperpage{81}
+    \subitem {\_contact\_no}, \hyperpage{81}
+    \subitem {\_email}, \hyperpage{81}
+    \subitem {\_id}, \hyperpage{81}
+    \subitem {\_name\_s}, \hyperpage{81}
+    \subitem {Borrow\_Data\_Block\_Size}, \hyperpage{81}
+    \subitem {ByteArrayBlockToSupplier}, \hyperpage{72}
+    \subitem {ByteArrayBlockToSupplierCounter}, \hyperpage{73}
+    \subitem {city\_MAX\_LENGTH}, \hyperpage{82}
+    \subitem {contact\_no\_NAME\_MAX\_LENGTH}, \hyperpage{82}
+    \subitem {Date\_Lenght}, \hyperpage{82}
+    \subitem {email\_NAME\_MAX\_LENGTH}, \hyperpage{82}
+    \subitem {getcity}, \hyperpage{74}
+    \subitem {getcontact\_no}, \hyperpage{74}
+    \subitem {getemail}, \hyperpage{75}
+    \subitem {getId}, \hyperpage{75}
+    \subitem {getname\_s}, \hyperpage{76}
+    \subitem {ID\_LENGTH}, \hyperpage{82}
+    \subitem {Name\_Lenght}, \hyperpage{82}
+    \subitem {name\_s\_MAX\_LENGTH}, \hyperpage{83}
+    \subitem {Return\_Date\_Lenght}, \hyperpage{83}
+    \subitem {setcity}, \hyperpage{76}
+    \subitem {setcontact\_no}, \hyperpage{77}
+    \subitem {setemail}, \hyperpage{77}
+    \subitem {setId}, \hyperpage{78}
+    \subitem {setname\_s}, \hyperpage{79}
+    \subitem {Supplier\_DATA\_BLOCK\_SIZE}, \hyperpage{83}
+    \subitem {SupplierToByteArrayBlock}, \hyperpage{79}
+  \item {ce103\_hw4\_library\_lib.UnitTest}, \hyperpage{86}
+    \subitem {testAddSaleMedicine2}, \hyperpage{87}
+    \subitem {testControlFile}, \hyperpage{88}
+    \subitem {testCustomerAddition}, \hyperpage{89}
+    \subitem {testCustomerUpdate}, \hyperpage{89}
+    \subitem {testMedicineToByteArrayBlock}, \hyperpage{90}
+    \subitem {testPrintCustomers}, \hyperpage{91}
+  \item {City}
+    \subitem {ce103\_hw4\_library\_app.App}, \hyperpage{11}
+  \item {city\_MAX\_LENGTH}
+    \subitem {ce103\_hw4\_library\_lib.CustomerFeature}, \hyperpage{26}
+    \subitem {ce103\_hw4\_library\_lib.SupplierFeature}, \hyperpage{82}
+  \item {Company}
+    \subitem {ce103\_hw4\_library\_app.App}, \hyperpage{11}
+  \item {company\_NAME\_MAX\_LENGTH}
+    \subitem {ce103\_hw4\_library\_lib.MedicineFeature}, \hyperpage{63}
+  \item {Contact\_No}
+    \subitem {ce103\_hw4\_library\_app.App}, \hyperpage{11}
+  \item {Contact\_No\_C}
+    \subitem {ce103\_hw4\_library\_app.App}, \hyperpage{11}
+  \item {contact\_no\_NAME\_MAX\_LENGTH}
+    \subitem {ce103\_hw4\_library\_lib.CustomerFeature}, \hyperpage{27}
+    \subitem {ce103\_hw4\_library\_lib.SupplierFeature}, \hyperpage{82}
+  \item {ControlFile}
+    \subitem {ce103\_hw4\_library\_lib.MainFunctions}, \hyperpage{40}
+  \item {controlFile}
+    \subitem {ce103\_hw4\_library\_lib.MainFunctions}, \hyperpage{41}
+  \item {Customer\_DATA\_BLOCK\_SIZE}
+    \subitem {ce103\_hw4\_library\_lib.CustomerFeature}, \hyperpage{27}
+  \item {CUSTOMER\_ID\_MAX\_LENGTH}
+    \subitem {ce103\_hw4\_library\_lib.SaleMedicineFeature}, 
+		\hyperpage{71}
+  \item {CustomerToByteArrayBlock}
+    \subitem {ce103\_hw4\_library\_lib.CustomerFeature}, \hyperpage{17}
+
+  \indexspace
+
+  \item {Date\_Lenght}
+    \subitem {ce103\_hw4\_library\_lib.SupplierFeature}, \hyperpage{82}
+  \item {DecreaseBook}
+    \subitem {ce103\_hw4\_library\_lib.MainFunctions}, \hyperpage{41}
+  \item {DecreaseBook2}
+    \subitem {ce103\_hw4\_library\_lib.MainFunctions}, \hyperpage{42}
+  \item {deleteBlock}
+    \subitem {ce103\_hw4\_library\_lib.FileOperations}, \hyperpage{34}
+  \item {deleteBlock2}
+    \subitem {ce103\_hw4\_library\_lib.FileOperations}, \hyperpage{35}
+
+  \indexspace
+
+  \item {Email\_ID}
+    \subitem {ce103\_hw4\_library\_app.App}, \hyperpage{11}
+  \item {email\_NAME\_MAX\_LENGTH}
+    \subitem {ce103\_hw4\_library\_lib.CustomerFeature}, \hyperpage{27}
+    \subitem {ce103\_hw4\_library\_lib.SupplierFeature}, \hyperpage{82}
+  \item {Exp\_Date}
+    \subitem {ce103\_hw4\_library\_app.App}, \hyperpage{12}
+  \item {exp\_date\_LENGTH}
+    \subitem {ce103\_hw4\_library\_lib.MedicineFeature}, \hyperpage{63}
+
+  \indexspace
+
+  \item {getCabnit}
+    \subitem {ce103\_hw4\_library\_lib.MedicineFeature}, \hyperpage{47}
+  \item {getcity}
+    \subitem {ce103\_hw4\_library\_lib.CustomerFeature}, \hyperpage{18}
+    \subitem {ce103\_hw4\_library\_lib.SupplierFeature}, \hyperpage{74}
+  \item {getCompany}
+    \subitem {ce103\_hw4\_library\_lib.MedicineFeature}, \hyperpage{48}
+  \item {getcontact\_no}
+    \subitem {ce103\_hw4\_library\_lib.CustomerFeature}, \hyperpage{19}
+    \subitem {ce103\_hw4\_library\_lib.SupplierFeature}, \hyperpage{74}
+  \item {getCustomerId}
+    \subitem {ce103\_hw4\_library\_lib.SaleMedicineFeature}, 
+		\hyperpage{67}
+  \item {getDate}
+    \subitem {ce103\_hw4\_library\_lib.CustomerFeature}, \hyperpage{19}
+  \item {getemail}
+    \subitem {ce103\_hw4\_library\_lib.CustomerFeature}, \hyperpage{19}
+    \subitem {ce103\_hw4\_library\_lib.SupplierFeature}, \hyperpage{75}
+  \item {getExp\_date}
+    \subitem {ce103\_hw4\_library\_lib.MedicineFeature}, \hyperpage{48}
+  \item {getId}
+    \subitem {ce103\_hw4\_library\_lib.CustomerFeature}, \hyperpage{20}
+    \subitem {ce103\_hw4\_library\_lib.MedicineFeature}, \hyperpage{49}
+    \subitem {ce103\_hw4\_library\_lib.SupplierFeature}, \hyperpage{75}
+  \item {GetInt}
+    \subitem {ce103\_hw4\_library\_lib.DataOperations}, \hyperpage{29}
+  \item {getMedicine}
+    \subitem {ce103\_hw4\_library\_lib.MedicineFeature}, \hyperpage{49}
+  \item {getMedicineId}
+    \subitem {ce103\_hw4\_library\_lib.SaleMedicineFeature}, 
+		\hyperpage{67}
+  \item {getMedicineQuantity}
+    \subitem {ce103\_hw4\_library\_lib.SaleMedicineFeature}, 
+		\hyperpage{68}
+  \item {getMgf\_date}
+    \subitem {ce103\_hw4\_library\_lib.MedicineFeature}, \hyperpage{50}
+  \item {getName}
+    \subitem {ce103\_hw4\_library\_lib.CustomerFeature}, \hyperpage{20}
+    \subitem {ce103\_hw4\_library\_lib.MedicineFeature}, \hyperpage{50}
+  \item {getname\_s}
+    \subitem {ce103\_hw4\_library\_lib.CustomerFeature}, \hyperpage{21}
+    \subitem {ce103\_hw4\_library\_lib.MedicineFeature}, \hyperpage{50}
+    \subitem {ce103\_hw4\_library\_lib.SupplierFeature}, \hyperpage{76}
+  \item {getQuantity}
+    \subitem {ce103\_hw4\_library\_lib.MedicineFeature}, \hyperpage{51}
+  \item {getRack}
+    \subitem {ce103\_hw4\_library\_lib.MedicineFeature}, \hyperpage{51}
+  \item {getReturnDate}
+    \subitem {ce103\_hw4\_library\_lib.CustomerFeature}, \hyperpage{21}
+  \item {getSalecost}
+    \subitem {ce103\_hw4\_library\_lib.MedicineFeature}, \hyperpage{52}
+  \item {getSaleDate}
+    \subitem {ce103\_hw4\_library\_lib.SaleMedicineFeature}, 
+		\hyperpage{68}
+  \item {getUnitcost}
+    \subitem {ce103\_hw4\_library\_lib.MedicineFeature}, \hyperpage{52}
+
+  \indexspace
+
+  \item {ID}
+    \subitem {ce103\_hw4\_library\_app.App}, \hyperpage{12}
+  \item {ID\_Control}
+    \subitem {ce103\_hw4\_library\_app.App}, \hyperpage{12}
+  \item {ID\_LENGTH}
+    \subitem {ce103\_hw4\_library\_lib.CustomerFeature}, \hyperpage{27}
+    \subitem {ce103\_hw4\_library\_lib.MedicineFeature}, \hyperpage{63}
+    \subitem {ce103\_hw4\_library\_lib.SupplierFeature}, \hyperpage{82}
+  \item {integerToByteArray}
+    \subitem {ce103\_hw4\_library\_lib.DataOperations}, \hyperpage{29}
+  \item {IsHex}
+    \subitem {ce103\_hw4\_library\_lib.DataOperations}, \hyperpage{30}
+
+  \indexspace
+
+  \item {main}
+    \subitem {ce103\_hw4\_library\_app.App}, \hyperpage{9}
+  \item {Medicine}
+    \subitem {ce103\_hw4\_library\_app.App}, \hyperpage{12}
+  \item {Medicine\_DATA\_BLOCK\_SIZE}
+    \subitem {ce103\_hw4\_library\_lib.MedicineFeature}, \hyperpage{63}
+  \item {MEDICINE\_ID\_LENGTH}
+    \subitem {ce103\_hw4\_library\_lib.SaleMedicineFeature}, 
+		\hyperpage{71}
+  \item {Medicine\_NAME\_MAX\_LENGTH}
+    \subitem {ce103\_hw4\_library\_lib.MedicineFeature}, \hyperpage{63}
+  \item {MedicineToByteArrayBlock}
+    \subitem {ce103\_hw4\_library\_lib.MedicineFeature}, \hyperpage{53}
+  \item {Mgf\_Date}
+    \subitem {ce103\_hw4\_library\_app.App}, \hyperpage{12}
+  \item {mgf\_date\_LENGTH}
+    \subitem {ce103\_hw4\_library\_lib.MedicineFeature}, \hyperpage{64}
+
+  \indexspace
+
+  \item {Name}
+    \subitem {ce103\_hw4\_library\_app.App}, \hyperpage{12}
+  \item {Name\_Lenght}
+    \subitem {ce103\_hw4\_library\_lib.SupplierFeature}, \hyperpage{82}
+  \item {name\_s\_MAX\_LENGTH}
+    \subitem {ce103\_hw4\_library\_lib.CustomerFeature}, \hyperpage{27}
+    \subitem {ce103\_hw4\_library\_lib.MedicineFeature}, \hyperpage{64}
+    \subitem {ce103\_hw4\_library\_lib.SupplierFeature}, \hyperpage{83}
+
+  \indexspace
+
+  \item {Quantity}
+    \subitem {ce103\_hw4\_library\_app.App}, \hyperpage{13}
+  \item {Quantity\_C}
+    \subitem {ce103\_hw4\_library\_app.App}, \hyperpage{13}
+  \item {quantity\_MAX\_LENGTH}
+    \subitem {ce103\_hw4\_library\_lib.MedicineFeature}, \hyperpage{64}
+
+  \indexspace
+
+  \item {Rack}
+    \subitem {ce103\_hw4\_library\_app.App}, \hyperpage{13}
+  \item {Rack\_C}
+    \subitem {ce103\_hw4\_library\_app.App}, \hyperpage{13}
+  \item {rack\_MAX\_LENGTH}
+    \subitem {ce103\_hw4\_library\_lib.MedicineFeature}, \hyperpage{64}
+  \item {readBlock}
+    \subitem {ce103\_hw4\_library\_lib.FileOperations}, \hyperpage{36}
+  \item {Return\_Date\_Lenght}
+    \subitem {ce103\_hw4\_library\_lib.SupplierFeature}, \hyperpage{83}
+
+  \indexspace
+
+  \item {Sale\_Cost}
+    \subitem {ce103\_hw4\_library\_app.App}, \hyperpage{13}
+  \item {Sale\_Cost\_C}
+    \subitem {ce103\_hw4\_library\_app.App}, \hyperpage{13}
+  \item {SALE\_DATA\_BLOCK\_SIZE}
+    \subitem {ce103\_hw4\_library\_lib.SaleMedicineFeature}, 
+		\hyperpage{71}
+  \item {salecost\_MAX\_LENGTH}
+    \subitem {ce103\_hw4\_library\_lib.MedicineFeature}, \hyperpage{64}
+  \item {SaleMedicine\_DATA\_BLOCK\_SIZE}
+    \subitem {ce103\_hw4\_library\_lib.MedicineFeature}, \hyperpage{64}
+  \item {setCabnit}
+    \subitem {ce103\_hw4\_library\_lib.MedicineFeature}, \hyperpage{55}
+  \item {setcity}
+    \subitem {ce103\_hw4\_library\_lib.CustomerFeature}, \hyperpage{21}
+    \subitem {ce103\_hw4\_library\_lib.SupplierFeature}, \hyperpage{76}
+  \item {setCompany}
+    \subitem {ce103\_hw4\_library\_lib.MedicineFeature}, \hyperpage{55}
+  \item {setcontact\_no}
+    \subitem {ce103\_hw4\_library\_lib.CustomerFeature}, \hyperpage{22}
+    \subitem {ce103\_hw4\_library\_lib.SupplierFeature}, \hyperpage{77}
+  \item {setCustomerId}
+    \subitem {ce103\_hw4\_library\_lib.SaleMedicineFeature}, 
+		\hyperpage{68}
+  \item {setDate}
+    \subitem {ce103\_hw4\_library\_lib.CustomerFeature}, \hyperpage{22}
+  \item {setemail}
+    \subitem {ce103\_hw4\_library\_lib.CustomerFeature}, \hyperpage{23}
+    \subitem {ce103\_hw4\_library\_lib.SupplierFeature}, \hyperpage{77}
+  \item {setExp\_date}
+    \subitem {ce103\_hw4\_library\_lib.MedicineFeature}, \hyperpage{56}
+  \item {setId}
+    \subitem {ce103\_hw4\_library\_lib.CustomerFeature}, \hyperpage{23}
+    \subitem {ce103\_hw4\_library\_lib.MedicineFeature}, \hyperpage{56}
+    \subitem {ce103\_hw4\_library\_lib.SupplierFeature}, \hyperpage{78}
+  \item {setMedicine}
+    \subitem {ce103\_hw4\_library\_lib.MedicineFeature}, \hyperpage{57}
+  \item {setMedicineId}
+    \subitem {ce103\_hw4\_library\_lib.SaleMedicineFeature}, 
+		\hyperpage{68}
+  \item {setMedicineQuantity}
+    \subitem {ce103\_hw4\_library\_lib.SaleMedicineFeature}, 
+		\hyperpage{69}
+  \item {setMgf\_date}
+    \subitem {ce103\_hw4\_library\_lib.MedicineFeature}, \hyperpage{57}
+  \item {setName}
+    \subitem {ce103\_hw4\_library\_lib.CustomerFeature}, \hyperpage{24}
+    \subitem {ce103\_hw4\_library\_lib.MedicineFeature}, \hyperpage{58}
+  \item {setname\_s}
+    \subitem {ce103\_hw4\_library\_lib.CustomerFeature}, \hyperpage{24}
+    \subitem {ce103\_hw4\_library\_lib.MedicineFeature}, \hyperpage{58}
+    \subitem {ce103\_hw4\_library\_lib.SupplierFeature}, \hyperpage{79}
+  \item {setQuantity}
+    \subitem {ce103\_hw4\_library\_lib.MedicineFeature}, \hyperpage{58}
+  \item {setRack}
+    \subitem {ce103\_hw4\_library\_lib.MedicineFeature}, \hyperpage{59}
+  \item {setReturnDate}
+    \subitem {ce103\_hw4\_library\_lib.CustomerFeature}, \hyperpage{25}
+  \item {setSalecost}
+    \subitem {ce103\_hw4\_library\_lib.MedicineFeature}, \hyperpage{59}
+  \item {setSaleDate}
+    \subitem {ce103\_hw4\_library\_lib.SaleMedicineFeature}, 
+		\hyperpage{69}
+  \item {setUnitcost}
+    \subitem {ce103\_hw4\_library\_lib.MedicineFeature}, \hyperpage{60}
+  \item {StringToByteArray}
+    \subitem {ce103\_hw4\_library\_lib.DataOperations}, \hyperpage{31}
+  \item {Supplier\_DATA\_BLOCK\_SIZE}
+    \subitem {ce103\_hw4\_library\_lib.SupplierFeature}, \hyperpage{83}
+  \item {SupplierToByteArrayBlock}
+    \subitem {ce103\_hw4\_library\_lib.SupplierFeature}, \hyperpage{79}
+
+  \indexspace
+
+  \item {testAddSaleMedicine2}
+    \subitem {ce103\_hw4\_library\_lib.UnitTest}, \hyperpage{87}
+  \item {testControlFile}
+    \subitem {ce103\_hw4\_library\_lib.UnitTest}, \hyperpage{88}
+  \item {testCustomerAddition}
+    \subitem {ce103\_hw4\_library\_lib.UnitTest}, \hyperpage{89}
+  \item {testCustomerUpdate}
+    \subitem {ce103\_hw4\_library\_lib.UnitTest}, \hyperpage{89}
+  \item {testGetInt}
+    \subitem {ce103\_hw4\_library\_cmd.UnitTest}, \hyperpage{83}
+  \item {testMedicineToByteArrayBlock}
+    \subitem {ce103\_hw4\_library\_lib.UnitTest}, \hyperpage{90}
+  \item {testPrintCustomers}
+    \subitem {ce103\_hw4\_library\_lib.UnitTest}, \hyperpage{91}
+  \item {testSetAndGetId}
+    \subitem {ce103\_hw4\_library\_cmd.UnitTest}, \hyperpage{84}
+  \item {testSetAndGetName}
+    \subitem {ce103\_hw4\_library\_cmd.UnitTest}, \hyperpage{84}
+  \item {testSupplierCreation}
+    \subitem {ce103\_hw4\_library\_cmd.UnitTest}, \hyperpage{85}
+  \item {testSupplierCreationAndFileWriting}
+    \subitem {ce103\_hw4\_library\_cmd.UnitTest}, \hyperpage{86}
+  \item {ToAscii}
+    \subitem {ce103\_hw4\_library\_lib.DataOperations}, \hyperpage{31}
+  \item {ToByte}
+    \subitem {ce103\_hw4\_library\_lib.DataOperations}, \hyperpage{31}
+  \item {ToHex}
+    \subitem {ce103\_hw4\_library\_lib.DataOperations}, \hyperpage{32}
+
+  \indexspace
+
+  \item {Unit\_Cost}
+    \subitem {ce103\_hw4\_library\_app.App}, \hyperpage{14}
+  \item {Unit\_Cost\_C}
+    \subitem {ce103\_hw4\_library\_app.App}, \hyperpage{14}
+  \item {unitcost\_MAX\_LENGTH}
+    \subitem {ce103\_hw4\_library\_lib.MedicineFeature}, \hyperpage{65}
+  \item {updateBlock}
+    \subitem {ce103\_hw4\_library\_lib.FileOperations}, \hyperpage{36}
+
+\end{theindex}
