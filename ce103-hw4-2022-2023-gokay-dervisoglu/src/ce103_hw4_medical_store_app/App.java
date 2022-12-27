@@ -1,14 +1,15 @@
-package ce103_hw4_library_app;
+package ce103_hw4_medical_store_app;
 
 //import java.io.File;
 import java.io.IOException;
 import java.util.Scanner;
 
-import ce103_hw4_library_lib.CustomerFeature;
-import ce103_hw4_library_lib.FileOperations;
-import ce103_hw4_library_lib.MainFunctions;
-import ce103_hw4_library_lib.MedicineFeature;
-import ce103_hw4_library_lib.SupplierFeature;
+import ce103_hw4_medical_store_lib.CustomerFeature;
+import ce103_hw4_medical_store_lib.FileOperations;
+import ce103_hw4_medical_store_lib.MainFunctions;
+import ce103_hw4_medical_store_lib.MedicineFeature;
+import ce103_hw4_medical_store_lib.SupplierFeature;
+
 
 public class App {
 

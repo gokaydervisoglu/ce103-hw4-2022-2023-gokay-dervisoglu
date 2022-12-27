@@ -1,4 +1,4 @@
-package ce103_hw4_library_lib;
+package ce103_hw4_medical_store_lib;
 
 import java.io.IOException;
 import java.io.RandomAccessFile;

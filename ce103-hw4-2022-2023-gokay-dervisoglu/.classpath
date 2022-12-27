@@ -7,6 +7,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
-	<classpathentry kind="lib" path="C:/Users/Gokay/Desktop/trail/ce103-hw4-gokay-dervisoglu/Jar/Jar3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gokay/Desktop/homework2/ce103-hw4-2022-2023-gokay-dervisoglu/jar/jar4.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

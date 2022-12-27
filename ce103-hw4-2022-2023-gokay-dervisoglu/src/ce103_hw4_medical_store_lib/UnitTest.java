@@ -1,4 +1,4 @@
-package ce103_hw4_library_lib;
+package ce103_hw4_medical_store_lib;
 
 import static org.junit.jupiter.api.Assertions.*;
 
@@ -7,12 +7,7 @@ import java.io.IOException;
 import org.junit.Test;
 
 
-import ce103_hw4_library_lib.CustomerFeature;
-import ce103_hw4_library_lib.DataOperations;
-import ce103_hw4_library_lib.FileOperations;
-import ce103_hw4_library_lib.MainFunctions;
-import ce103_hw4_library_lib.MedicineFeature;
-import ce103_hw4_library_lib.SupplierFeature;
+
 
 
 
