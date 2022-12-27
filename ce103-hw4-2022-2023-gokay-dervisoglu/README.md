@@ -1,4 +1,4 @@
-# ce103-hw4-gokay-dervisoglu-doxygen 
+# ce103-hw4-2022-2023-gokay-dervisoglu 
 * gokay dervisoglu/mehmet ali gumusler
 
 ## This project is medical store management.
