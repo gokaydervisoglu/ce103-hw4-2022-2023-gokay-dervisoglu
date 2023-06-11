@@ -1,5 +1,14 @@
-# ce103-hw4-2022-2023-gokay-dervisoglu 
-* gokay dervisoglu/mehmet ali gumusler
+# CE100, Homework 4
+
+## Eternals Team 
+
+Members;
+- Mehmet Ali GUMUSLER, (mehmetali_gumusler21@erdogan.edu.tr), [@mehmetaligumusler](https://github.com/mehmetaligumusler)
+
+- Gökay DERVISOĞLU, (gokay_dervisoglu21@erdogan.edu.tr), [@gokaydervisoglu](https://github.com/gokaydervisoglu) 
+
+Instructor: 
+- Ugur CORUH, [@ucoruh](https://github.com/ucoruh) 
 
 ## This project is medical store management.
 
@@ -21,3 +30,7 @@ or you can list directly.
 
 * Customer menu design
 ![Ekran görüntüsü_20221227_180705](https://user-images.githubusercontent.com/114167428/209685429-4bc38003-c636-4a65-9cd9-f845180778c7.png)
+
+## About
+
+Some algorithms in Java.
