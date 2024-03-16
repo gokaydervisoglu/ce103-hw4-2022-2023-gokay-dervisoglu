@@ -1,4 +1,4 @@
-package ce103_hw4_medical_store_lib;
+package com.JavaLib;
 
 import java.io.IOException;
 
@@ -16,14 +16,6 @@ public class CustomerFeature
 	public static final int email_NAME_MAX_LENGTH = 50;
 
 	public static final int Customer_DATA_BLOCK_SIZE = ID_LENGTH + city_MAX_LENGTH + contact_no_NAME_MAX_LENGTH + name_s_MAX_LENGTH + email_NAME_MAX_LENGTH;
-
-	//public static final int Name_Lenght = 30;
-
-	//public static final int Return_Date_Lenght = 20;
-
-	//public static final int Date_Lenght = 30;
-
-	//public static final int Borrow_Data_Block_Size = Name_Lenght + Return_Date_Lenght + Date_Lenght + ID_LENGTH;
 
 
 	private int _id; //id
@@ -103,97 +95,6 @@ public class CustomerFeature
 	{
 		_date = value;
 	}
-
-
-	/*
-	public static byte[] CustomerToByteArrayBlockBorrow(CustomerFeature Customer)
-	{
-
-		int index = 0;
-
-
-		byte[] dataBuffer = new byte[Borrow_Data_Block_Size];
-
-		byte[] idBytes = DataOperations.integerToByteArray(Customer.getId());
-		System.arraycopy(idBytes, 0, dataBuffer, index, idBytes.length);
-		index += CustomerFeature.ID_LENGTH;
-
-		byte[] nameBytes = DataOperations.StringToByteArray(Customer.getName());
-		System.arraycopy(nameBytes, 0, dataBuffer, index, nameBytes.length);
-		index += CustomerFeature.Name_Lenght;
-
-		byte[] returnDateBytes = DataOperations.StringToByteArray(Customer.getReturnDate());
-		System.arraycopy(returnDateBytes, 0, dataBuffer, index, returnDateBytes.length);
-		index += CustomerFeature.Return_Date_Lenght;
-
-		byte[] DateBytes = DataOperations.StringToByteArray(Customer.getDate());
-		System.arraycopy(DateBytes, 0, dataBuffer, index, DateBytes.length);
-		index += CustomerFeature.Date_Lenght;
-
-		if (index != dataBuffer.length)
-		{
-
-			throw new IllegalArgumentException("Index and DataBuffer Size Not Matched");
-		}
-
-		return dataBuffer;
-
-	}
-	*/
-
-	/*
-	public static CustomerFeature ByteArrayBlockToBorrow(byte[] byteArray)
-	{
-		CustomerFeature Customer = new CustomerFeature();
-
-		if (byteArray.length != Borrow_Data_Block_Size)
-		{
-			throw new IllegalArgumentException("Byte Array Size Not Match with Constant Data Block Size");
-		}
-
-
-		int index = 0;
-
-
-		byte[] idBytes = new byte[CustomerFeature.ID_LENGTH];
-		System.arraycopy(byteArray, index, idBytes, 0, idBytes.length);
-		Customer.setId(DataOperations.byteArrayToInteger(idBytes));
-		index += CustomerFeature.ID_LENGTH;
-
-		byte[] nameBytes = new byte[CustomerFeature.Name_Lenght];
-		System.arraycopy(byteArray, index, nameBytes, 0, nameBytes.length);
-		Customer.setName(DataOperations.byteArrayToString(nameBytes));
-		index += CustomerFeature.Name_Lenght;
-
-		byte[] returnDateBytes = new byte[CustomerFeature.Return_Date_Lenght];
-		System.arraycopy(byteArray, index, returnDateBytes, 0, returnDateBytes.length);
-		Customer.setReturnDate(DataOperations.byteArrayToString(returnDateBytes));
-		index += CustomerFeature.Return_Date_Lenght;
-
-		byte[] dateBytes = new byte[CustomerFeature.Date_Lenght];
-		System.arraycopy(byteArray, index, dateBytes, 0, dateBytes.length);
-		Customer.setDate(DataOperations.byteArrayToString(dateBytes));
-		index += CustomerFeature.Date_Lenght;
-
-
-
-		if (index != byteArray.length)
-		{
-
-			throw new IllegalArgumentException("Index and DataBuffer Size Not Matched");
-		}
-
-		if (Customer.getId() == 0)
-		{
-			return null;
-		}
-		else
-		{
-			return Customer;
-		}
-
-	}
-	*/
 
 	public static byte[] CustomerToByteArrayBlock(CustomerFeature Customer)
 	{

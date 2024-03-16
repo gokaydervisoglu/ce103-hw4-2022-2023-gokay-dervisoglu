@@ -1,5 +1,4 @@
-package ce103_hw4_medical_store_lib;
-
+package com.JavaLib;
 
 
 public class SaleMedicineFeature {
@@ -156,10 +155,4 @@ public class SaleMedicineFeature {
 		
 	}
 	
-	
-	
-	
-	
-
-
 }

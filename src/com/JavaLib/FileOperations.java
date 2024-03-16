@@ -1,14 +1,11 @@
-package ce103_hw4_medical_store_lib;
-
-import java.io.IOException;
-import java.io.RandomAccessFile;
-
-
+package com.JavaLib;
 
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
+import java.io.IOException;
+import java.io.RandomAccessFile;
 
 public class FileOperations
 {
@@ -109,4 +106,3 @@ public class FileOperations
 	        return true;
 }
 }
-	

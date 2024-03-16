@@ -1,11 +1,8 @@
-package ce103_hw4_medical_store_lib;
-
-import java.util.stream.*;
-
-
+package com.JavaLib;
 
 import java.nio.ByteBuffer;
 import java.nio.charset.StandardCharsets;
+import java.util.stream.IntStream;
 
 public final class DataOperations
 {
@@ -83,8 +80,6 @@ public final class DataOperations
 	}
 
 
-
-
 	public static byte[] StringToByteArray(String data)
 	{
 		return data.getBytes(java.nio.charset.StandardCharsets.US_ASCII);
@@ -95,12 +90,4 @@ public final class DataOperations
 	public static String byteArrayToString(byte[] byteArray) {
 	    return new String(byteArray, StandardCharsets.US_ASCII).replace("\0", "");
 	}
-
-
-
-
-
-
-
-
 }

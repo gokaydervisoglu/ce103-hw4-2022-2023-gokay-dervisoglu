@@ -1,13 +1,11 @@
-package ce103_hw4_medical_store_lib;
+package com.JavaLib;
 
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
-import java.util.function.BooleanSupplier;
 
 
-//import menu_deneme.SupplierFeature;
 
 public class MainFunctions
 {
@@ -147,6 +145,4 @@ public class MainFunctions
 	
 
 }
-	
-	
-	
+

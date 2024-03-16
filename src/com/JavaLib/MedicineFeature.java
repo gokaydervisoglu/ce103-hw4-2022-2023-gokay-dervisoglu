@@ -1,8 +1,6 @@
-package ce103_hw4_medical_store_lib;
+package com.JavaLib;
 
 import java.io.IOException;
-
-
 
 public class MedicineFeature
 {

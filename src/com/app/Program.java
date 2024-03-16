@@ -1,17 +1,17 @@
-package ce103_hw4_medical_store_app;
+package com.app;
 
-//import java.io.File;
 import java.io.IOException;
 import java.util.Scanner;
 
-import ce103_hw4_medical_store_lib.CustomerFeature;
-import ce103_hw4_medical_store_lib.FileOperations;
-import ce103_hw4_medical_store_lib.MainFunctions;
-import ce103_hw4_medical_store_lib.MedicineFeature;
-import ce103_hw4_medical_store_lib.SupplierFeature;
+import com.JavaLib.CustomerFeature;
+import com.JavaLib.FileOperations;
+import com.JavaLib.MainFunctions;
+import com.JavaLib.MedicineFeature;
+import com.JavaLib.SupplierFeature;
 
+//import java.io.File;
 
-public class App {
+public class Program {
 
 	public static int ID;
 	public static String ID_Control;
@@ -45,9 +45,16 @@ public class App {
 	public static String Mgf_Date;
 	public static String Exp_Date;
 	
-
+	/*
+	public static void main(String[] args) throws IOException, InterruptedException 
+	{
+		System.out.println("Hello");
+	}
+	*/
+	
 	@SuppressWarnings("resource")
-	public static void main(String[] args) throws IOException, InterruptedException {
+	public static void main(String[] args) throws IOException, InterruptedException 
+	{
 		
 				while (true) 
 				{
@@ -237,32 +244,32 @@ public class App {
 			    //// UPDATE DELETE
 			    
 			 
-        		
+      		
 			    System.out.print("|  Supplier ID:");
-                Scanner scanner = new Scanner(System.in);
+              Scanner scanner = new Scanner(System.in);
 				int supplierUptadeId = scanner.nextInt();
 				
-        		try {
-        			
-                	for(int c =1 ; c<5 ;c++) 
-            		{
-                		
-                		
-                		byte[] supplierWrittenBytes = FileOperations.readBlock(c, SupplierFeature.Supplier_DATA_BLOCK_SIZE, "supplier.dat");
-        				SupplierFeature supplierWrittenObject = SupplierFeature.ByteArrayBlockToSupplier(supplierWrittenBytes);
-        			
-            			
-            			if(supplierUptadeId==supplierWrittenObject.getId()) {
-    					
-    					
-            			System.out.println(" Supplier Num: " + supplierWrittenObject.getcontact_no());
-        				System.out.println(" Supplier Name: " + supplierWrittenObject.getname_s());
-        				System.out.println(" Suppliers City: " + supplierWrittenObject.getcity());
-        				System.out.println(" Supplier Mail: " + supplierWrittenObject.getemail());
-        				
-        				MainFunctions a = new MainFunctions();
-        				
-        				if(c==1)
+      		try {
+      			
+              	for(int c =1 ; c<5 ;c++) 
+          		{
+              		
+              		
+              		byte[] supplierWrittenBytes = FileOperations.readBlock(c, SupplierFeature.Supplier_DATA_BLOCK_SIZE, "supplier.dat");
+      				SupplierFeature supplierWrittenObject = SupplierFeature.ByteArrayBlockToSupplier(supplierWrittenBytes);
+      			
+          			
+          			if(supplierUptadeId==supplierWrittenObject.getId()) {
+  					
+  					
+          			System.out.println(" Supplier Num: " + supplierWrittenObject.getcontact_no());
+      				System.out.println(" Supplier Name: " + supplierWrittenObject.getname_s());
+      				System.out.println(" Suppliers City: " + supplierWrittenObject.getcity());
+      				System.out.println(" Supplier Mail: " + supplierWrittenObject.getemail());
+      				
+      				MainFunctions a = new MainFunctions();
+      				
+      				if(c==1)
 						{
 							FileOperations.deleteBlock2(SupplierFeature.Supplier_DATA_BLOCK_SIZE, 0,"supplier.dat");
 							
@@ -523,15 +530,15 @@ public class App {
 							
 							
 							break;
-            		}
-            	}
-        	}
-        		}
-        		
-        		catch(NullPointerException e)
-        		{
-        			
-        		}
+          		}
+          	}
+      	}
+      		}
+      		
+      		catch(NullPointerException e)
+      		{
+      			
+      		}
 			    
 			    
 							
@@ -738,7 +745,7 @@ public class App {
 					
 						
 					if (searchname.equals(MedicineWrittenObject.getname_s()))
-                    {
+                  {
 						
 					System.out.println("|Supplier ID:" + MedicineWrittenObject.getId());
 					
@@ -1459,7 +1466,7 @@ public class App {
 						}// search id switch case
 					    
 				    	
-   					    
+ 					    
 				  		//break;
 				    continue;
 				    	
@@ -1695,14 +1702,14 @@ public class App {
 					    CustomerFeature CustomerWrittenObject = CustomerFeature.ByteArrayBlockToCustomer(CustomerWrittenBytes);
 					    int customer_id = CustomerWrittenObject.getId();
 					
-    				    MainFunctions.AddSaleMedicine2(medicine_id,customer_id);
-    				        				    
-            			if(medicineSaleId==medicine_id) {
-    					
-        				if(c==1)
+  				    MainFunctions.AddSaleMedicine2(medicine_id,customer_id);
+  				        				    
+          			if(medicineSaleId==medicine_id) {
+  					
+      				if(c==1)
 						{
-        					FileOperations.deleteBlock2(MedicineFeature.Medicine_DATA_BLOCK_SIZE,0,"medicine.dat");
-        					medicine_id = MedicineWrittenObject.getId(); 
+      					FileOperations.deleteBlock2(MedicineFeature.Medicine_DATA_BLOCK_SIZE,0,"medicine.dat");
+      					medicine_id = MedicineWrittenObject.getId(); 
 							MedicineFeature medicine = new MedicineFeature();
 						
 							medicine.setId(medicineSaleId);
@@ -1797,15 +1804,15 @@ public class App {
 						{
 							System.out.println("Not found file");
 						}
-            	}
-        	}
+          	}
+      	}
 				    
-        		}
-        		
-        		catch(NullPointerException e)
-        		{
-        			System.out.println("File is Null");
-        		}
+      		}
+      		
+      		catch(NullPointerException e)
+      		{
+      			System.out.println("File is Null");
+      		}
 			    
 				   
 				 continue;  
@@ -2128,7 +2135,7 @@ public class App {
 					{
 					System.out.print("\n");
 					}
- 
+
 					System.out.println("Plese Enter right character ONLY (P,S,L,H,M).");
 					}
 					
@@ -2181,6 +2188,7 @@ public class App {
 	} //while 1.
 	} // main
 	} // public class
+
 
 
 
